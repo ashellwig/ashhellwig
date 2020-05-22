@@ -1,0 +1,9 @@
+[submodule "api/ashhellwig-go"]
+	path = api/ashhellwig-go
+	url = git@github.com:ashellwig/ashhellwig-go.git
+[submodule "api/ashhellwig-spring"]
+	path = api/ashhellwig-spring
+	url = git@github.com:ashellwig/ashhellwig-spring.git
+[submodule "client/ashhellwig-vue"]
+	path = client/ashhellwig-vue
+	url = git@github.com:ashellwig/ashhellwig-vue.git
